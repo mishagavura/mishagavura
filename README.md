@@ -19,3 +19,5 @@
 ![github](https://img.shields.io/badge/-GITHUB-F05032?style=for-the-badge&logo=github&logoColor=ffffff)
 ![sublime](https://img.shields.io/badge/-Sublime-F05032?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F05032?style=for-the-badge&logo=figma&logoColor=ffffff)
+
+style by Alex Zolotarov
