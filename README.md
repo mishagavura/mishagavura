@@ -7,11 +7,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-192a56?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![AJAX](https://img.shields.io/badge/-AJAX-192a56?style=for-the-badge&logo=ajax&logoColor=ffffff)
-![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=jquery&logoColor=ffffff)
+![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 ### Operation systems
 ![LINUX](https://img.shields.io/badge/-LINUX-40739e?style=for-the-badge&logo=linux&logoColor=ffffff)
 ### Backend stack
-![PYTHON](https://img.shields.io/badge/-PYTHON-192a56?style=for-the-badge&logo=python3&logoColor=ffffff)
+![PYTHON](https://img.shields.io/badge/-PYTHON-192a56?style=for-the-badge&logo=python&logoColor=ffffff)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-192a56?style=for-the-badge&logo=django&logoColor=ffffff)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-192a56?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ### Tools and IDEA's
