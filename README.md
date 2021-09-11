@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-192a56?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![AJAX](https://img.shields.io/badge/-AJAX-192a56?style=for-the-badge&logo=ajax&logoColor=ffffff)
-![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=jquery&logoColor=ffffff)
 ### Operation systems
 ![LINUX](https://img.shields.io/badge/-LINUX-40739e?style=for-the-badge&logo=linux&logoColor=ffffff)
 ### Backend stack
