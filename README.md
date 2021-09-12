@@ -1,6 +1,6 @@
 ## Statistics 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagavra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagavura&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages and Tools
 ### Frontend stack
 ![HTML](https://img.shields.io/badge/-HTML-192a56?style=for-the-badge&logo=html5&logoColor=ffffff)
