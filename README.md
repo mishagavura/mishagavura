@@ -20,4 +20,4 @@
 ![sublime](https://img.shields.io/badge/-Sublime-F05032?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F05032?style=for-the-badge&logo=figma&logoColor=ffffff)
 
-style by <a href='github.com/webgtx'>Alex Zolotarov</a>
+style by <a href='https://github.com/webgtx'>Alex Zolotarov</a>
