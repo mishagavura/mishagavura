@@ -6,6 +6,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-192a56?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-192a56?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![REACT](https://img.shields.io/badge/-REACT-192a56?style=for-the-badge&logo=react&logoColor=ffffff)
 ![AJAX](https://img.shields.io/badge/-AJAX-192a56?style=for-the-badge&logo=ajax&logoColor=ffffff)
 ![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 ### Operation systems
