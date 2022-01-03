@@ -11,6 +11,7 @@
 ![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 ### Operation systems
 ![LINUX](https://img.shields.io/badge/-LINUX-40739e?style=for-the-badge&logo=linux&logoColor=ffffff)
+![MACOS](https://img.shields.io/badge/-MACOS-40739e?style=for-the-badge&logo=apple&logoColor=ffffff)
 ### Backend stack
 ![PYTHON](https://img.shields.io/badge/-PYTHON-192a56?style=for-the-badge&logo=python&logoColor=ffffff)
 ![DJANGO](https://img.shields.io/badge/-DJANGO-192a56?style=for-the-badge&logo=django&logoColor=ffffff)
