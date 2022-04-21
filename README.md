@@ -2,7 +2,16 @@ Hi 👋 My name is Misha
 ====================== 
 Co-founder of ev\_\_dev 
 -----------------------
-With our team we develop: -websites -web apps -landings -telegram bots -CRMs using the latest and the most powerful technologies  * 🌍  I'm based in Ukraine * ✉️  You can contact me at [1mgavura@gmail.com](mailto:1mgavura@gmail.com)
+
+With our team we develop:
+-websites
+-web apps
+-landings
+-telegram bots
+-CRMs using the latest and the most powerful technologies
+
+* 🌍  I'm based in Ukraine 
+* ✉️  You can contact me at [1mgavura@gmail.com](mailto:1mgavura@gmail.com)
 
 ### Skills
 
