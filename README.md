@@ -1,25 +1,41 @@
-## Statistics 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagavura&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## Languages and Tools
-### Frontend stack
-![HTML](https://img.shields.io/badge/-HTML-192a56?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-192a56?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![REACT](https://img.shields.io/badge/-REACT-192a56?style=for-the-badge&logo=react&logoColor=ffffff)
-![AJAX](https://img.shields.io/badge/-AJAX-192a56?style=for-the-badge&logo=ajax&logoColor=ffffff)
-![JQUERY](https://img.shields.io/badge/-JQUERY-192a56?style=for-the-badge&logo=jQuery&logoColor=ffffff)
-### Operation systems
-![LINUX](https://img.shields.io/badge/-LINUX-40739e?style=for-the-badge&logo=linux&logoColor=ffffff)
-![MACOS](https://img.shields.io/badge/-MACOS-40739e?style=for-the-badge&logo=apple&logoColor=ffffff)
-### Backend stack
-![PYTHON](https://img.shields.io/badge/-PYTHON-192a56?style=for-the-badge&logo=python&logoColor=ffffff)
-![DJANGO](https://img.shields.io/badge/-DJANGO-192a56?style=for-the-badge&logo=django&logoColor=ffffff)
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-192a56?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-### Tools and IDEA's
-![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![github](https://img.shields.io/badge/-GITHUB-F05032?style=for-the-badge&logo=github&logoColor=ffffff)
-![sublime](https://img.shields.io/badge/-Sublime-F05032?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
-![FIGMA](https://img.shields.io/badge/-FIGMA-F05032?style=for-the-badge&logo=figma&logoColor=ffffff)
+Hi 👋 My name is Misha
+======================
 
-style by <a href='https://github.com/webgtx'>Alex Zolotarov</a>
+Co-founder of ev\_\_dev
+-----------------------
+
+With our team we develop: -websites -web apps -landings -telegram bots -CRMs using the latest and the most powerful technologies
+
+*   🌍  I'm based in Ukraine
+*   ✉️  You can contact me at [1mgavura@gmail.com](mailto:1mgavura@gmail.com)### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+                                <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+                                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/mishagavura" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/misha_gavura" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/mishagavura"><img src="https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mishagavura's GitHub stats" /></a><a
+                      href="http://www.github.com/mishagavura"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=mishagavura&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/mishagavura"><img src="https://activity-graph.herokuapp.com/graph?username=mishagavura&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/mishagavura" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishagavura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
+                  href="https://www.buymeacoffee.com/mishagavura"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
