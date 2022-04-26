@@ -3,12 +3,12 @@ Hi 👋 My name is Misha
 Co-founder of evdev 
 -----------------------
 
-With our team we develop:\n
--websites
--web apps
--landings
--telegram bots
--CRMs using the latest and the most powerful technologies
+With our team we develop:
+*-websites
+*-web apps
+*-landings
+*-telegram bots
+*-CRMs using the latest and the most powerful technologies
 
 * 🌍  I'm based in Ukraine 
 * ✉️  You can contact me at [1mgavura@gmail.com](mailto:1mgavura@gmail.com)
