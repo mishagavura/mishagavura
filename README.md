@@ -1,9 +1,9 @@
 Hi 👋 My name is Misha 
 ====================== 
-Co-founder of ev\_\_dev 
+Co-founder of evdev 
 -----------------------
 
-With our team we develop:
+With our team we develop:\n
 -websites
 -web apps
 -landings
