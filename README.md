@@ -11,7 +11,7 @@ With our team we develop and care about:
 * -CRMs using the latest and the most powerful technologies
 
 * 🌍  I'm based in Ukraine 
-* ✉️  You can contact me at [1mgavura@gmail.com](mailto:1mgavura@gmail.com)
+* ✉️  You can contact me at [info@evdev.dev](mailto:info@evdev.dev)
 
 
 [![wakatime](https://wakatime.com/badge/user/f03e1eac-5d20-4c93-9a4f-2f9b53ce4bc2.svg)](https://wakatime.com/@f03e1eac-5d20-4c93-9a4f-2f9b53ce4bc2)
