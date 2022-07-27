@@ -10,7 +10,7 @@ With our team we develop and care about:
 * -telegram bots
 * -CRMs using the latest and the most powerful technologies
 
-* 🌍  I'm based in Ukraine 
+* 🌍  I'm based in Canada, but my soul and heart belongs to Ukraine 
 * ✉️  You can contact me at [info@evdev.dev](mailto:info@evdev.dev)
 
 
