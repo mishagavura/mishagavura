@@ -1,9 +1,8 @@
 Hi 👋 My name is Misha 
 ====================== 
-Co-founder of evdev 
 -----------------------
 
-With our team we develop and care about:
+I develop and care about:
 * -websites
 * -web apps
 * -landings
