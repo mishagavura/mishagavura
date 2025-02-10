@@ -1,18 +1,6 @@
 Hi 👋 My name is Misha 
 ====================== 
 -----------------------
-
-I develop and care about:
-* -websites
-* -web apps
-* -landings
-* -telegram bots
-* -CRMs using the latest and the most powerful technologies
-
-* 🌍  I'm based in Canada, but my soul and heart belongs to Ukraine 
-* ✉️  You can contact me at [info@evdev.dev](mailto:info@evdev.dev)
-
-
 [![wakatime](https://wakatime.com/badge/user/f03e1eac-5d20-4c93-9a4f-2f9b53ce4bc2.svg)](https://wakatime.com/@f03e1eac-5d20-4c93-9a4f-2f9b53ce4bc2)
 
 
@@ -30,7 +18,3 @@ I develop and care about:
 <a href="http://www.github.com/mishagavura"><img src="https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mishagavura's GitHub stats" /></a>
 <a href="http://www.github.com/mishagavura"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mishagavura&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/mishagavura"><img src="https://activity-graph.herokuapp.com/graph?username=mishagavura&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/mishagavura" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishagavura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### Support Ukraine!
-
-<a href="https://www.buymeacoffee.com/mishagavura"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
