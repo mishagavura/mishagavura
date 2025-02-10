@@ -1,6 +1,5 @@
 Hi 👋 My name is Misha 
 ====================== 
------------------------
 [![wakatime](https://wakatime.com/badge/user/f03e1eac-5d20-4c93-9a4f-2f9b53ce4bc2.svg)](https://wakatime.com/@f03e1eac-5d20-4c93-9a4f-2f9b53ce4bc2)
 
 
