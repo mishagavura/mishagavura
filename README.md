@@ -16,6 +16,6 @@ Hi 👋 My name is Misha
 
 ![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&theme=github_dark)
 
-<b>Streak</b>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mishagavura)(https://git.io/streak-stats)]
+<b>Streaks</b>
+![GitHub Streak](https://streak-stats.demolab.com/?user=mishagavura)
 
