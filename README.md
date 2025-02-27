@@ -14,4 +14,4 @@ Hi 👋 My name is Misha
 
 <b>My GitHub Stats</b>
 
-![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&theme=transparent)
+![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&theme=github_dark)
