@@ -15,5 +15,7 @@ Hi 👋 My name is Misha
 <b>My GitHub Stats</b>
 
 ![Misha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagavura&show_icons=true&theme=github_dark)
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=mishagavura)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=mishagavura&theme=dark)
+
+<b>Streak</b>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mishagavura)(https://git.io/streak-stats)]
 
